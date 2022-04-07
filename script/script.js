@@ -12,6 +12,7 @@ button.forEach((btn, idx) => {
   })
 });
 
+//clears inputs of inside the calculator display
 clear.addEventListener('click', () => {input.innerText=""})
 
 
